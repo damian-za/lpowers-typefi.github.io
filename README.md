@@ -1,3 +1,8 @@
+---
+nav_order: 1
+---
+
+
 # Glossary
 
 ## A collection of terms and definitions through Typefi's documentation

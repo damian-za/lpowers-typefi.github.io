@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Glossary
+
+## A collection of terms and definitions through Typefi's documentation
 
 🚀 🐼
 

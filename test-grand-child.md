@@ -1,8 +1,7 @@
 ---
-title: Granchild of Test
-parent: Child of Test
-grand_parent: Test
-nav_order: 1
+title: C
+nav_order: 4
 ---
 
-# I am a grand child of test
+# C
+c terms here

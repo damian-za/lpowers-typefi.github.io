@@ -24,6 +24,15 @@ An XSL program which converts structured content from one format to another. Wit
 Markers that indicate where an Element is referenced in the content. The location of the Element in relation to its anchor is determined by the Element's
 layout rules.
 
+### Typefi AutoFit
+A Typefi product. Typefi AutoFit is an Adobe InDesign plug-in that enables the creation of dynamic page objects that react and respond automatically as content changes. For more information, see [Typefi AutoFit overview](https://help.typefi.com/hc/en-us/articles/224864727).
+
+### Typefi Designer
+A Typefi product. Typefi Designer is a suite of tools for Adobe InDesign to transform regular InDesign documents into files you can use in a Typefi automated publishing workflow.
+
+### Typefi Engine
+Typefi's design intelligence technology.
+
 ### Typefi Fields
 Content placeholders. Typefi Fields are used for inserting text that repeats itself throughout a layout— such as a document title, chapter titles, or running headers and footers. For more information, see [Typefi Fields overview](https://help.typefi.com/hc/en-us/articles/360002099135).
 
@@ -44,3 +53,9 @@ Typefi Sections define the sequence in which master pages are applied to documen
 
 ### Typefi Section Fields
 A type of Typefi Field. Typefi Section Fields are content placeholders that represent the position and formatting of metadata within a Typefi Section. For more information, see [Creating a Section Field](https://help.typefi.com/hc/en-us/articles/115010247407).
+
+### Typefi Writer
+A Typefi product. Typefi Writer is an add-on for Microsoft Word that enables the creation of structured content.
+
+### Typefitter
+A Typefi product. Typefitter is an Adobe InDesign plug-in that enables you to quickly and intuitively nudge InDesign’s paragraph composer to improve the appearance of justified text. For more information, see [Typefitter overview](https://help.typefi.com/hc/en-us/articles/224866307).

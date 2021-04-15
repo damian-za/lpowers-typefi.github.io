@@ -12,7 +12,7 @@ A standard for representing tables in SGML/XML. For more information, see [CALS 
 Stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed. To learn more, see [CSS Introduction](https://www.w3schools.com/Css/css_intro.asp).
 
 ### Content XML (CXML)
-An intermediary file type called CXML which harmonises Word documents—or any type of source content—with dynamic InDesign templates. For more information, see the [CXML 3.2 documentation](https://help.typefi.com/hc/en-us/articles/360001485775).
+An intermediary file type called CXML which harmonises Word documents—or any type of source content—with dynamic Adobe InDesign templates. For more information, see the [CXML 3.2 documentation](https://help.typefi.com/hc/en-us/articles/360001485775).
 
 ### converter
 Code that is embedded into Typefi plug-ins to perform Typefi-specific actions. 

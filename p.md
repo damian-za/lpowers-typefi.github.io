@@ -6,7 +6,7 @@ nav_order: 17
 # P
 
 ### paragraph styles
-Paragraph styles created in Adobe InDesign. In Typefi Writer, you apply these paragraph styles to your content.
+Includes both character and paragraph formatting attributes, and can be applied to a paragraph or range of paragraphs.
 
 ### parent-child relationships
 The Typefi AutoFit tool AutoFit Tool defines parent-child relationships between objects, so that when the 'parent' object is moved or resized, its 'child' objects automatically adjust by the same amount.

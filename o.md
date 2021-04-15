@@ -12,4 +12,4 @@ Typefi products that are at the end of life. End of life means Typefi no longer 
 Stands for Object Linking and Embedding. OLE is a proprietary technology developed by Microsoft that allows embedding and linking to documents and other objects.
 
 ### overset text
-Text that vanishes from your InDesign document if it can't fit into its text frame.
+Text that vanishes from your Adobe InDesign document if it can't fit into its text frame.

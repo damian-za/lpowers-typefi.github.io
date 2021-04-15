@@ -1,6 +1,10 @@
 $typefi-orange: #fe5000;
 $light-grey: #fafafa;
 
+*::selection{
+  color: $typefi-orange;
+}
+
 a {
   color: $typefi-orange;
 }

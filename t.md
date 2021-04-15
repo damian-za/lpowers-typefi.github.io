@@ -5,19 +5,30 @@ nav_order: 21
 
 # T
 
-### tag
+### tag (Writer markup)
+The markup added to a Microsoft Word document when inserting Typefi components (like Typefi Sections, or Typefi Elements).
+
+## tag (XML)
+XML markup between and including the less-than and more-than character.
 
 ### template items
+An item that is used repeatedly throughout a publication and is stored on an Adobe InDesign template page.
 
 ### TPS
+Stands for Typefi Publishing System.
 
 ### transform
+An XSL program which converts structured content from one format to another. With Typefi, this is typically XML to CXML and DOCX to CXML. A transform has zero or more layers + one or more entry points. In simple cases transform consists only of one entry point (XSLT file) and no layers. In this case, the term _transform_ is interchangeable with _entry point_. XSL transforms can read and write only text and XML files but not binary files (ZIP files, images).
 
 ### Typefi Anchor
+Markers that indicate where an Element is referenced in the content. The location of the Element in relation to its anchor is determined by the Element's
+layout rules.
 
 ### Typefi Fields
+Content placeholders. Typefi Fields are used for inserting text that repeats itself throughout a layout— such as a document title, chapter titles, or running headers and footers. For more information, see [Typefi Fields overview](https://help.typefi.com/hc/en-us/articles/360002099135).
 
 ### Typefi FileManager
+A way to upload, check in, check out, and delete your Typefi-ready templates (.indd) to a Typefi Server, without leaving Adobe InDesign. For more information, see [Typefi FileManager overview](https://help.typefi.com/hc/en-us/articles/360002293235).
 
 ### Typefi Frames
 An Adobe InDesign template page frame with additional attributes that allows it to receive content dynamically during the automated page composition process.
@@ -26,10 +37,10 @@ An Adobe InDesign template page frame with additional attributes that allows it 
 A special type of hyperlink used during the automated page composition process to make sure hyperlinks to paragraph styles and bookmarks are retained.
 
 ### Typefi Project Fields
-A text field in which the value remains the same across all pages and sections of a publication. Project Fields are commonly used for inserting project-level content, such as the document title, subtitle, author, publisher, copyright, or International Standard Book Number (ISBN). For more information, see [Creating a Project Field](https://help.typefi.com/hc/en-us/articles/115008318127).
+A type of Typefi Field. Typefi Project Fields are a text field in which the value remains the same across all pages and sections of a publication. Project Fields are commonly used for inserting project-level content, such as the document title, subtitle, author, publisher, copyright, or International Standard Book Number (ISBN). For more information, see [Creating a Project Field](https://help.typefi.com/hc/en-us/articles/115008318127).
 
 ### Typefi Sections
 Typefi Sections define the sequence in which master pages are applied to document pages during the automated page composition process. For more information, see [Typefi Sections overview](https://help.typefi.com/hc/en-us/articles/115007283508).
 
 ### Typefi Section Fields
-Content placeholders that represent the position and formatting of metadata within a Typefi Section. For more information, see [Creating a Section Field](https://help.typefi.com/hc/en-us/articles/115010247407).
+A type of Typefi Field. Typefi Section Fields are content placeholders that represent the position and formatting of metadata within a Typefi Section. For more information, see [Creating a Section Field](https://help.typefi.com/hc/en-us/articles/115010247407).

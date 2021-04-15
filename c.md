@@ -8,6 +8,9 @@ nav_order: 4
 ### CALS
 A standard for representing tables in SGML/XML. For more information, see [CALS Table Model](https://en.wikipedia.org/wiki/CALS_Table_Model).
 
+### character styles
+A collection of character formatting attributes that can be applied to text.
+
 ### CSS
 Stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed. To learn more, see [CSS Introduction](https://www.w3schools.com/Css/css_intro.asp).
 

@@ -6,7 +6,7 @@ nav_order: 13
 # L
 
 ### layers (XSLT)
-A folder with [XSLT files](/x.html#xslt-file) that serve for general or specific purposes. 
+A folder with [XSLT files](/x.html#xslt-files) that serve for general or specific purposes. 
 
 For example, an "sts" layer is based on the "jats" layer ("jats" is required by "sts" layer) and performs a generic ISOSTS/NISOSTS to Content XML transformation. Another example is an iso-docx layer which is based on "iso" > "sts" > "jats" layers and which transforms ISOSTS/NISOSTS documents (only particular subset of features used by ISO customer) to CXML which is suitable for CXML-to-DOCX converter (command-line utility included in the _Export DOCX_ workflow action).
 

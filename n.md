@@ -5,7 +5,10 @@ nav_order: 15
 
 # N
 
-### NSBs
+### NISO
+Stands for National Information Standards Organization. [NISO](http://www.niso.org/) is where content publishers, libraries, and software developers turn for information industry standards that allow them to work together. 
+
+### NSB
 Stands for National Standards Bodies.
 
 ### nested Elements

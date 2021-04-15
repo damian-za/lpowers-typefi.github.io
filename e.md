@@ -12,7 +12,7 @@ A pair of opening and closing XML tags (<element-name>...</element-name>) or a s
 A marker in Typefi Writer that links a Typefi Element to a specific location in the text.
 
 ### entry point
-An XSLT file which can be executed. In most cases, it contains minimal code which only triggers one or more other XSLT layers (similar to folder shortcuts in Windows). Individual XSLT files often depend on other XSLT files and cannot be executed separately.
+An [XSLT](/x.html#xslt) file which can be executed. In most cases, it contains minimal code which only triggers one or more other XSLT layers (similar to folder shortcuts in Windows). Individual XSLT files often depend on other XSLT files and cannot be executed separately.
 
 ### EPS files
 A file with the EPS file extension is an Encapsulated PostScript file. They're typically used by drawing applications, like Adobe Illustrator, to describe how to produce images, drawings, or layouts.

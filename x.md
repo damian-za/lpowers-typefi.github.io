@@ -17,7 +17,7 @@ A language for expressing style sheets. An XSL style sheet is, like with CSS, a 
 ### XSLT
 An XML-based language for converting XML documents. See [XSLT introduction](https://www.w3schools.com/xml/xsl_intro.asp) to learn more.
 
-### XSLT file
+### XSLT files
 A file with XSLT code on disk.
 
 ### XSLT library

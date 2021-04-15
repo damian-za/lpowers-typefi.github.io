@@ -4,4 +4,6 @@ nav_order: 23
 ---
 
 # V
-V terms here
+
+### variants (Typefi Elements)
+A single Floating Element can be applied to multiple design alternatives, called Element Variants.

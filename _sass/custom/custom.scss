@@ -1,12 +1,13 @@
 $typefi-orange: #fe5000;
+$pantone-320 : #009CA6;
 $light-grey: #fafafa;
 
 *::selection{
-  background-color: $typefi-orange;
+  background-color: $pantone-320;
 }
 
 a {
-  color: $typefi-orange;
+  color: $pantone-320;
 }
 
 .side-bar {
@@ -14,5 +15,5 @@ a {
 }
 
 .feather {
-  color: $typefi-orange;
+  color: $pantone-320;
 }

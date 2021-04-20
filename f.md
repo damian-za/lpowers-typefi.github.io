@@ -6,7 +6,7 @@ nav_order: 7
 # F
 
 ### Field Instance
-A type of [Typefi Field](/t.html#typefi-field) that enables you to reuse Field values anywhere within your regular text.
+A type of [Typefi Field](/t.html#typefi-field) that enables you to reuse Field values anywhere within your regular text. Introduced in Content XML 3.2 (<fieldRef>).
 
 ### file path
 Describes the location of a file in Typefi Server.

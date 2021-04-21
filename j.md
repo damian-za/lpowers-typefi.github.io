@@ -8,6 +8,9 @@ nav_order: 11
 ## JATS
 Stands for Journal Article Tag Suite. [JATS](https://jats.nlm.nih.gov/) is an application of NISO Z39.96-2019, which defines a set of XML elements and attributes for tagging journal articles and describes three article models. The _Import/Export JATS_ workflow action supports version 1.0 and 1.1 of the standard.
 
+## JATS plug-in (product)
+A [workflow plug-in](/w.html#workflow-plug-ins) for integrating JATS content in Typefi workflows.
+
 ## JavaScript
 A scripting language used on the Web and in Adobe InDesign.
 

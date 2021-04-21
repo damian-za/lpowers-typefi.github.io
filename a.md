@@ -3,7 +3,7 @@ title: A
 nav_order: 2
 ---
 
-# A
+## A
 
 ### Adobe InDesign
 [Adobe InDesign](https://www.adobe.com/products/indesign.html)is the industry-leading layout and page design software for print and digital media. Typefi Designer adds design intelligence to InDesign files.

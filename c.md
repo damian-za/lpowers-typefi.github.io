@@ -11,6 +11,9 @@ A standard for representing tables in SGML/XML. For more information, see [CALS 
 ## character styles
 A collection of character formatting attributes that can be applied to text.
 
+## CMS
+Stands for Content Management System. A CMS is a computer software used to manage the creation and modification of digital content.
+
 ## CSS
 Stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed. To learn more, see [CSS Introduction](https://www.w3schools.com/Css/css_intro.asp).
 

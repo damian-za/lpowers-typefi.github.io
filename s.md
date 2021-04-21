@@ -5,30 +5,30 @@ nav_order: 20
 
 # S
 
-### Schematron
+## Schematron
 A collection of one or more rules which contain tests for the presence or absence of patterns in XML documents. Used in the _Run Schematron_ workflow action.
 
-### SDO
+## SDO
 Stands for Standards Development Organisations.
 
-### SGML
+## SGML
 A standard for defining generalized markup languages for documents. Defined in ISO 8879:1986.
 
-### signature
+## signature
 In book-binding, a signature refers to a section of the paper. Papers in a book are divided into several signatures.
 
-### snapping tolerance
+## snapping tolerance
 In Typefi AutoFit, the snapping tolerance is the distance within which the pointer snaps to the anchor point.
 
-### soft return
+## soft return
 In Microsoft Word, a soft return signifies the end of a line.
 
-### soft styles
+## soft styles
 Manual, or soft formatting (such as bold, italic, or underline), as opposed to hard character styles that
 you apply in Microsoft Word, can be passed through to Typefi.
 
-### story
+## story
 A continuous piece of text that fits within a standalone text frame or flows among a series of threaded (linked) text frames.
 
-### string
+## string
 A sequence of characters which can be used to specify the type of a variable or attribute, as well as its content and for other purposes.

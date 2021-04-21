@@ -5,6 +5,9 @@ nav_order: 14
 
 # M
 
+## Markdown plug-in (product)
+A [workflow plug-in](/w.html#workflow-plug-ins) for integrating [Markdown](https://daringfireball.net/projects/markdown/) content in Typefi workflows.
+
 ## markup (Typefi Writer)
 The tags added to a Microsoft Word document when inserting Typefi components (such as a Typefi Section or Element). For more information, see [Writer markup overview](https://help.typefi.com/hc/en-us/articles/360002399576).
 
@@ -25,6 +28,9 @@ Used in the movemen MathTools plug-in. MathZones defines the area in your docume
 
 ## metadata
 Data about data
+
+## Microsoft Word plug-in (product)
+A [workflow plug-in](/w.html#workflow-plug-ins) for integrating DOCX documents into a Typefi workflow. For more information, see [Microsoft Word plug-in](https://help.typefi.com/hc/en-us/articles/360002664756).
 
 ## movemen
 The maker of MathTools; an Adobe Solution Partner that implements products that assist in professional publishing. For more information, see the [movemen website](http://movemen.com/).

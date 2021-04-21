@@ -8,7 +8,7 @@ nav_order: 21
 ### tag (Writer markup)
 The markup added to a Microsoft Word document when inserting Typefi components (like Typefi Sections, or Typefi Elements).
 
-## tag (XML)
+### tag (XML)
 XML markup between and including the less-than and more-than character.
 
 ### template items

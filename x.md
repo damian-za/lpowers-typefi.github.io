@@ -14,6 +14,9 @@ Stands for Extensible Markup Language. XML was designed to store and transport d
 ### XSL
 A language for expressing style sheets. An XSL style sheet is, like with CSS, a file that describes how to display an XML document of a given type. See [XSL](https://en.wikipedia.org/wiki/XSL) to learn more.
 
+### XSL plug-in (product)
+A [workflow plug-in](/w.html#workflow-plug-ins) that's used to transform one kind of XML into another kind of XML. For more information, see [XSL plug-in overview](https://help.typefi.com/hc/en-us/articles/360001359235).
+
 ### XSLT
 An XML-based language for converting XML documents. See [XSLT introduction](https://www.w3schools.com/xml/xsl_intro.asp) to learn more.
 

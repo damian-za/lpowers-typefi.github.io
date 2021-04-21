@@ -8,6 +8,12 @@ nav_order: 15
 ## NISO
 Stands for National Information Standards Organization. [NISO](http://www.niso.org/) is where content publishers, libraries, and software developers turn for information industry standards that allow them to work together. 
 
+## NLM
+Stands for [National Library of Medicine](https://www.nlm.nih.gov/). The [NLM Journal Archiving and Interchange Tag Suite](https://dtd.nlm.nih.gov/) is a standardised markup for journal content developed by the [National Center for Biotechnology Information and National Library of Medicine](https://www.ncbi.nlm.nih.gov/).
+
+## NLM plug-in (product)
+A [workflow plug-in(/w.html#workflow-plug-ins) for import and exporting NLM content in a Typefi workflow.
+
 ## NSB
 Stands for National Standards Bodies.
 

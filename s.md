@@ -27,6 +27,12 @@ In Microsoft Word, a soft return signifies the end of a line.
 Manual, or soft formatting (such as bold, italic, or underline), as opposed to hard character styles that
 you apply in Microsoft Word, can be passed through to Typefi.
 
+## SPL
+Stands for Structured Product Labeling. SPL is a document markup standard approved by Health Level Seven (HL7) and adopted by the U.S. Food and Drug Administration (FDA) as a mechanism for exchanging product and facility information.
+
+## SPL plug-in (product)
+A [workflow plug-in](/w.html#workflow-plug-ins) that enables you to use SPL content in Typefi workflows.
+
 ## story
 A continuous piece of text that fits within a standalone text frame or flows among a series of threaded (linked) text frames.
 

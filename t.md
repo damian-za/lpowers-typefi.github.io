@@ -37,7 +37,7 @@ Typefi's design intelligence technology.
 Content placeholders. Typefi Fields are used for inserting text that repeats itself throughout a layout— such as a document title, chapter titles, or running headers and footers. For more information, see [Typefi Fields overview](https://help.typefi.com/hc/en-us/articles/360002099135).
 
 ### Typefi Field Instances
-A type of [Typefi Field](/t.html#typefi-field) that enables you to reuse Field values anywhere within your regular text. Introduced in [Content XML 3.2](https://help.typefi.com/hc/en-us/articles/360001485775) (`<fieldRef>`).
+A text variable in your content that represents the value of a [Typefi Field](/t.html#typefi-field). Introduced in [Content XML 3.2](https://help.typefi.com/hc/en-us/articles/360001485775) (`<fieldRef>`) and Typefi Writer 8.7.1 (64-bit edition).
 
 ### Typefi FileManager
 A way to upload, check in, check out, and delete your Typefi-ready templates (.indd) to a Typefi Server, without leaving Adobe InDesign. For more information, see [Typefi FileManager overview](https://help.typefi.com/hc/en-us/articles/360002293235).

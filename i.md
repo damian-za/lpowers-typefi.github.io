@@ -21,4 +21,7 @@ Graphics that are placed within a paragraph’s content. They flow with the text
 Acronymn for the International Organization for Standatization (ISO). To learn more, see [ISO](https://www.iso.org/home.html).
 
 ## ISOSTS
-Stands for ISO Standards Tag Set. ISOSTS was based on JATS v0.4 and developed by ISO. ISOSTS data can be used in Typefi workflows using the _Import ISOSTS_ workflow action.
+Stands for [ISO Standards Tag Set](http://www.iso.org/schema/isosts/). ISOSTS was based on JATS v0.4 and developed by ISO. ISOSTS data can be used in Typefi workflows using the _Import ISOSTS_ workflow action.
+
+## ISOSTS plug-in (product)
+A [workflow plug-in](/w.html#workflow-plug-ins) that enables you to use ISOSTS data in Typefi workflows.

@@ -22,3 +22,9 @@ A script which runs during the automated pagination process. These scripts add a
 
 ## explicit white space
 In Content XML, explicit white space elements refer to spaces (<s>), tabs (<t>), and newline/soft return (<l>) elements. They are generally used to make a document more readable.
+
+## Extensis FontLink
+A module for [Universal Type Server](https://www.extensis.com/universal-type-server), that helps manage fonts in InDesign and InDesign Server.
+
+## ## Extensis FontLink (product)
+A [workflow plug-in](/w.html#workflow-plug-ins) for using Extensis FontLink in Typefi workflows.
